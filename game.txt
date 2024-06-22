@@ -1,1 +1,3 @@
 Rooms, Items, and Interactions
+Room1: A dark and spooky room.
+Room2: A bright and cheerful room.
